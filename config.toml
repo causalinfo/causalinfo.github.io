@@ -29,8 +29,8 @@ disableKinds = ["taxonomyTerm"]
     url  = "/about"
     weight = 1
 [[menu.main]]
-    name = "Neurips"
-    url  = "/dates"
+    name = "NeurIPS 2024"
+    url  = "/neurips2024_main"
     weight = 3
 #[[menu.main]]
 #    name = "Formatting Instructions"
