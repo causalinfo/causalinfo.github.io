@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://crl-workshop.github.io/"
+baseurl = "https://causalinfo.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
