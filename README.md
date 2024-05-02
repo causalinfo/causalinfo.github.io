@@ -1,2 +1,2 @@
-# crl-workshop.github.io/
-Website for the Workshop on Causal Representation Learning at NeurIPS 2023
+# causalinfo.github.io
+Website for workshops, minisymposia, and events organised by the UBC causal inference group
