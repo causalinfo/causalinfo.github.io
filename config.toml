@@ -7,11 +7,11 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "Learning From Data With Information Theory and Causal Inference"
-  title = "A minisymposium @ the 2024 SIAM Annual Meeting"
-  subtitle = "July 9th & 12th 2024"
+  supertitle = ""
+  title = "Learning From Data With Information Theory and Causal Inference"
+  subtitle = ""
   author = "Joseph Janssen, Vincent Guan, Elina Robeva"
-  description = "2024 SIAM Annual Meeting minisymposium on 'Learning From Data With Information Theory and Causal Inference' "
+  description = "Website for workshops, minisymposia, and events organised by the causal inference group at University of British Columbia' "
   keywords = ["minisymposium", "causal inference", "information theory"]
 
 # Options for Markdown renderer
