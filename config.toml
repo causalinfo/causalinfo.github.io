@@ -21,7 +21,7 @@ disableKinds = ["taxonomyTerm"]
 
 # Main menu
 [[menu.main]]
-    name = "Call for Papers"
+    name = "SIAM 2024"
     url  = "/call-for-papers"
     weight = 2
 [[menu.main]]
