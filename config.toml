@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://causalinfo.github.io/"
+baseurl = "https://causalinfo.github.io/SIAM2024"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
