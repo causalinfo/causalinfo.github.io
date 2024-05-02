@@ -1,5 +1,5 @@
 ---
-title: "Neurips 2024"
+title: "NeurIPS 2024"
 ---
 
 Coming soon
