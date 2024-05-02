@@ -7,12 +7,12 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "NeurIPS 2023 Workshop on"
-  title = "Causal Representation Learning"
-  subtitle = "December 15th 2023"
-  author = "Sara Magliacane, Cian Eastwood, Yuki Asano, Claudia Shi, Atalanti Mastakouri, Sébastien Lachapelle, Caroline Uhler, Bernhard Schölkopf"
-  description = "NeurIPS 2023 Workshop on Causal Representation Learning"
-  keywords = ["workshop", "causal representation learning"]
+  supertitle = "Learning From Data With Information Theory and Causal Inference"
+  title = "A minisymposium @ the 2024 SIAM Annual Meeting"
+  subtitle = "July 9th & 12th 2024"
+  author = "Joseph Janssen, Vincent Guan, Elina Robeva"
+  description = "2024 SIAM Annual Meeting minisymposium on 'Learning From Data With Information Theory and Causal Inference' "
+  keywords = ["minisymposium", "causal inference", "information theory"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
