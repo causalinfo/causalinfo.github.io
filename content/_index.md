@@ -8,7 +8,7 @@ This is the central hub for workshops, minisymposia, and events organised by the
 
 ## Upcoming Events
 
-* **SIAM 2024: Online-only event on July 9th and 12th**
+* **SIAM Annual Meeting 2024: Online event on July 18th-20th**
 
 ## Previous Events
 
