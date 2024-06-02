@@ -2,5 +2,4 @@
 title: "NeurIPS 2024"
 ---
 
-Coming soon
-
+Please visit [our NeurIPS page](https://causalinfo.github.io/NeurIPS2024) for more information.
